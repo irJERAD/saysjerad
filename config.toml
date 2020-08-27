@@ -143,6 +143,9 @@ identifier = "who-me"
 [[menu.main]]
 indentifier = "soup"
 
+[[main.menu]]
+indentifier = "belly-button"
+
 [blackfriday]
 hrefTargetBlank = true
 
