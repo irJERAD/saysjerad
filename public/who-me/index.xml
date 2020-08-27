@@ -5,9 +5,20 @@
     <link>/who-me/</link>
     <description>Recent content in Who Me? on says jerad</description>
     <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 22 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/who-me/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Why do I create music?</title>
+      <link>/who-me/why-create/</link>
+      <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/who-me/why-create/</guid>
+      <description>Introducing the unessential The unnecessary has an interesting place in our lives. Surely we are gluttunous creatures with plenty of excess. Among the hoggish slop of redundance and the encumbering wealth of consumerism is a very specific form of unessential I am calling out here.
+A very refined excess that is cultured by nature; culture, in-fact, is so bound with it, it is defined by and along-with this most uneeded of creations.</description>
+    </item>
     
   </channel>
 </rss>
