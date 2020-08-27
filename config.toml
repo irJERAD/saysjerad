@@ -132,7 +132,13 @@ page = "/:slug/"
 name = "Repo"
 weight = -10
 identifier = "repository"
-url = "https://github.com/MunifTanjim/minimo"
+url = "https://github.com/irjerad/saysjerad"
+
+[[menu.main]]
+identifier = "cool-talk"
+
+[[menu.main]]
+identifier = "who-me"
 
 [blackfriday]
 hrefTargetBlank = true

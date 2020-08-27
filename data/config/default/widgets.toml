@@ -16,7 +16,7 @@ excludeTypes = ["page"]
 title = "seek and find"
 
 [sidebar_menu]
-title = "sidebar"
+title = "Broadcast"
 mirror = ""
 
 [social_menu]
