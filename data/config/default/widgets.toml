@@ -1,6 +1,6 @@
 [about]
-title = ""
-description = ""
+title = "says jerad"
+description = "thought I would say something"
 logo = "/images/logo.png"
 
 [breadcrumbs]
@@ -13,17 +13,17 @@ length = 5
 excludeTypes = ["page"]
 
 [search]
-title = "Search"
+title = "seek and find"
 
 [sidebar_menu]
-title = ""
+title = "sidebar"
 mirror = ""
 
 [social_menu]
 title = ""
-platforms = ["github","facebook","twitter","instagram","email","codepen","gitlab","linkedin","telegram","google_scholar","youtube"]
+platforms = ["github","facebook","twitter","instagram","email","linkedin","youtube"]
 
 [taxonomy_cloud]
-title = ""
+title = "collected thought"
 taxonomy = "tags"
 shuffle = true
