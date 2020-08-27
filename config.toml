@@ -128,17 +128,20 @@ tag = "tags"
 [permalinks]
 page = "/:slug/"
 
-[[menu.main]]
-name = "Repo"
-weight = -10
-identifier = "repository"
-url = "https://github.com/irjerad/saysjerad"
+#[[menu.main]]
+#name = "Repo"
+#weight = -10
+#identifier = "repository"
+#url = "https://github.com/irjerad/saysjerad"
 
 [[menu.main]]
 identifier = "cool-talk"
 
 [[menu.main]]
 identifier = "who-me"
+
+[[menu.main]]
+indentifier = "soup"
 
 [blackfriday]
 hrefTargetBlank = true

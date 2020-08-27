@@ -3,6 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/cool-talk/</loc>
+  </url>
+  
+  <url>
+    <loc>/who-me/</loc>
+  </url>
+  
+  <url>
+    <loc>/soup/</loc>
+  </url>
+  
+  <url>
     <loc>/authors/</loc>
   </url>
   
