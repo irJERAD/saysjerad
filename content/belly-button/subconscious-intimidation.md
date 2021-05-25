@@ -1,6 +1,6 @@
 +++
-title = "The subconscious concequence of intimidation"
-description = "does our criminal and legal system insentivize mis behavior in individuals sensitive to this cognitive cue"
+title = "The subconscious consequence of intimidation"
+description = "does our criminal and legal system incentivize mis-behavior in individuals sensitive to this cognitive cue"
 date = "2020-08-23"
 author = "Jerad Acosta"
 tags = ["mind","subconscious","politics","punishment","government"]
