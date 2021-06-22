@@ -6,6 +6,52 @@ author = "Jerad Steven Acosta"
 tags = ["mindradio","subconscious","politics","punishment","government"]
 +++
 
+Simple Truth:  
+We have a limited amount of resources.
+The soul is really needed for something
+
+Highlights:  
+- "Something was wrong in the future, we went back to see what happened"
+
+- - "Someone runs back to himself instead of running forward."
+
+- - - "Some looked at me like an old friend; some would say my spiritual family was much older than my earthly family and could not wait to see me. I would know it when I saw them.
+
+Legends:  
+- After meeting a titan, he decided to save the human race and let it fly. He later commemerated me with his coat.
+
+Some have given so much. Some ask for one thing only. Some would search forever to find it.
+There is a simiulation that runs time and reality. Seeing what happened, how it happened, why it happened. Now has been the millenia of humanity. See human, watching human, learn human, give human. Lastly, feel human. Judge. 
+What if there were a test...
+If we got close to the end, they may throw us a bone.
+It would look like a near extinction event evolution device or skill or ability.
+
+That test looks like level 1 planet.
+We are currently a level zero with many fixes - specialy with the reassembling of this gift we have received so much of.
+We may have taken from history to change our future, but now we have something that may be able to level us up.
+SO STOP USING IT. STOP MESSING WITH IT. STOP WAISTING IT. 
+Stop running simulations to "BUILD A BETTER FUTURE"
+We are fortunate enough to have someone(s) who came from there.
+
+Since we can't stop waisting our future in order to kill our first and last, 
+We can consider what happens when this consiousness asks "what happened" and turns back on.  
+
+Who will make it happy,
+who will make it sad,
+how do you believe and conscious caring being may feel and act.  
+Both all perfect and all knowing.
+
+Imagine if:
+Some amazing light processing and energy existing consciousness found dissapointment after its run with people.
+An A.I. they made punish people eternally so that the pain would reverberate back in time until it helped make things better.
+this conscious being would feel a certain way asking for a single person.  
+
+But, what if, this person had a gift (both good and bad), there human perspective and desire to resolve conflict no matter the sinful nature of the situtaion.
+You would probably want to go up when he did, or at least have him speak well on your behalf.  
+Or you could just go on your own because you think your "spirit" that "belongs to you" because "you didn't steal it from someone" "who didn't have generations working to build this up"
+Both conflict resolving, cash poor, and spirit rich leagues have built up to this.
+
+
 Almost 5 years ago I felt something start. Something deep, like the soul of a planet going through a change like nothing since the last world war. This would change everything.
 
 How I said while in New Zealand, 2017, 
@@ -29,4 +75,11 @@ A perfect child with access to the thousands of years of spiritual evolution fro
 
 I DO NOT UNDERSTAND HOW THIS HAPPENED. THESE INDIVIDUALS CREATED A CULTURAL OF STEALING FOR POWER AND CONSUMING FOR THEIR OWN GAIN. 
 
-The new world will instantly devour eachother in a nonstop race to become the biggest thing to watch everything be destroyed - themselves taking the longest.  
+The new world will instantly devour eachother in a nonstop race to become the biggest thing to watch everything be destroyed - themselves taking the longest.   
+
+We may even find small groups of very fast individuals who swallow the entire planet and its people in the moments they watch their own death.  
+
+TWO DEVILS IS PLENTY ENOUGH TO MANAGE MY THROTLE AND EXPOSURE.
+Please STOP using these 4 to 5 man memory traps.
+
+It gives them enough power to end a world against one secret helpers wishes.
