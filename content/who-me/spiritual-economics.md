@@ -8,7 +8,7 @@ tags = ["mindradio","subconscious","politics","punishment","government"]
 
 Simple Truth:  
 We have a limited amount of resources.
-The soul is really needed for something
+The soul is a living conscious essence
 
 Highlights:  
 - "Something was wrong in the future, we went back to see what happened"
