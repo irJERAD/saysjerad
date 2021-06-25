@@ -7,6 +7,8 @@ tags = ["story-time","legend","spiritual-economics","what-happend-was","suck-out
 +++
 
 List of Stories:
+- 1990 to 1992 For a period of about a month a shadowing figure would appear next to be as I lay in bed. It looked like E.T. and would wave its fingers as though it was spinning drum sticks. After a second or few of shock I would turn around and stuff my face into a large mickey mouse stuffed animal with red shorts on. My butt would be sticking in the air toward E.T. while my face hidden.
+
 - Kids messing with me on a radio in my vents  (2017)
 - Two fairy god parents: have a child, (then travel the world) (2017)  
 - REM therapy (2018)  
@@ -81,5 +83,15 @@ For the first time in my life I wanted to set aside my personal quest to partici
 
 These magical tooth fairies I would lovingly call them, would inspire me to take on a more selfish path.  
 
-I would do "the most selfish thing" someone could do as my friend would say.  
+I would do "the most selfish thing" someone could do, as my friend Matthew would say - have a child.  
+
+As my short lived experience with these fairies progressed, the young trickster voices began using studying the techniques being used to manifest this reality for my wife and I.  
+
+It was only a couple weeks before obvious changes had taken affect in these individuals.  
+
+The tooth fairies as I called appeared to be playing with me. They would insight worry by telling me terrible things were happening to my wife. They detailed her involved in sexual acts with other men, they lead my on wild chases around town to find her. Each time I wound up empty handed always more confused and more upset with the results.  
+
+At first it would seem like they were under the influence of others. Maybe the young tricksters presence was intoxicating their purpose with their behavior.  
+
+
 
