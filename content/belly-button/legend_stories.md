@@ -25,6 +25,9 @@ List of Stories:
 - MineRadio Manifesto: make a platform for us all to profit on. Specialized groups develop applications for our baseline hardware / software package for us all to use
 
 
+- A demon looking like darth maul pointed at a hammer head tattoo on my forearm which appeared to imply my immanent danger while he gave out laugh similar to those they give while nervous. I then lectured him on the proper place of a demon. Explaining that he could find purpose in his work of scaring people by scaring them away from places they should not be or things they should not be doing. We caried on as close friends from that point on.  
+    - One day shortly after, we heard about an impending nuclear attack. Mahana Maul, took out his paddle and strode out onto the pacific. As he got out there he was able to stop the bomb (may 14 or 24th 2020, China). The blast was so strong I could feel the radioactive wind burning at my skin. I am sure had the bomb been closer it would have burned me a lot more.  
+
 - Everytime I wake up its summer solstice - Joe
 
 - Fall to earth at 16
