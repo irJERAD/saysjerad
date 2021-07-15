@@ -1,5 +1,5 @@
 +++
-title = "Spiritual Economics"
+title = "wouldn't ya know"
 description = "For the past half decade we have been experiencing a cosmic shift; of wealth and power."
 date = "2021-06-22"
 author = "Jerad Steven Acosta"
@@ -17,8 +17,6 @@ Highlights:
 
 - - - "Some looked at me like an old friend; some would say my spiritual family was much older than my earthly family and could not wait to see me. I would know it when I saw them.
 
-Legends:  
-- After meeting a titan, he decided to save the human race and let it fly. He later commemerated me with his coat.
 
 Some have given so much. Some ask for one thing only. Some would search forever to find it.
 There is a simiulation that runs time and reality. Seeing what happened, how it happened, why it happened. Now has been the millenia of humanity. See human, watching human, learn human, give human. Lastly, feel human. Judge. 
