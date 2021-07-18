@@ -1,6 +1,6 @@
 +++
-title = "The subconscious concequence of intimidation"
-description = "does our criminal and legal system insentivize mis behavior in individuals sensitive to this cognitive cue"
+title = "Pandemic Butterfly"
+description = "before we can exchange foil hats with secret santa we must first check the calendar"
 date = "2021-05-25"
 author = "Jerad Acosta"
 tags = ["mind","subconscious","politics","punishment","government"]
