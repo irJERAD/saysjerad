@@ -39,6 +39,8 @@ The Rip Van Winkle of Living Gods.
 
 To gift us with time he would sleep. And to honor him? To honor him, we would foget.  
 
+July 18 10:46 AM Stephanie Chong Acosta has been graciously given an amazing oppotunity to connect with and speak to her husband and life partner. We began slowly trying to reach out to each other. But one particularly scheduled individuals desired to lay out information in a way that would bring up the most anxiety in `
+
 
 After
 

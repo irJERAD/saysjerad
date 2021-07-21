@@ -12,3 +12,7 @@ I would later learn that dying was all about who new me and had good stories
 The president has the exective function of speaking on behalf of the group to those outside.  
 
 Z-combinator
+
+The Y behind some of life's mysteries are not always meant to be known.  
+
+With all the spiritual warfare going on in the light of day and being destroyed.
