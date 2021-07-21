@@ -36,3 +36,8 @@ What can we build?
 - An education?  
 - The Fourth Book?  
 - A Temple... baaa
+
+
+### So What Does This All Mean?  
+
+...
